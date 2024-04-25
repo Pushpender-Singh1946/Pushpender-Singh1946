@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="[https://github.com/Anshuman2121/Anshuman2121/blob/main/cover.jpg](https://drive.google.com/file/d/1mAkYF3G_zeNpFYDi0543sL_jVn9JW918/view?usp=drive_link)" alt="cover" />
+<img width="100%" height = "250px" src="https://github.com/Anshuman2121/Anshuman2121/blob/main/cover.jpg](https://drive.google.com/file/d/1mAkYF3G_zeNpFYDi0543sL_jVn9JW918/view?usp=drive_link" alt="cover" />
 </div>
 
 <h1> Hello Fellow <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
