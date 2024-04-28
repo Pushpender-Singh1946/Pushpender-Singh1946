@@ -1,7 +1,4 @@
-<div align="center">
-<img width="100%" height = "250px" src="https://giphy.com/gifs/hyperrpg-twitch-hyper-rpg-kollok-elrFAUtV7ZOH7TSPhF" alt="cover" />
-</div>
-
+![logo](https://github.com/Driftking77/Driftking77/blob/main/0_5XM77ae9J1fs8nxD.gif)
 
 <h1> Hello Fellow <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
