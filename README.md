@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://drive.google.com/file/d/1mAkYF3G_zeNpFYDi0543sL_jVn9JW918/view?usp=drive_link" alt="cover" />
+<img width="100%" height = "250px" src="https://giphy.com/gifs/hyperrpg-twitch-hyper-rpg-kollok-elrFAUtV7ZOH7TSPhF" alt="cover" />
 </div>
 
 
